@@ -19,9 +19,9 @@ draft: true # true = not published; set to false when ready
 
 Intro paragraph. Say what the post is about in a sentence or two.
 
-## Table of contents
+## Headings
 
-Headings (`##` and below) feed the table of contents. The post title is already an `h1`, so start at `##`.
+Headings (`##` and below) automatically build the table of contents. The post title is already an `h1`, so start at `##`. Don't add your own "Table of contents" heading.
 
 ## Text formatting
 
